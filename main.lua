@@ -222,7 +222,7 @@ end
 
 -- Window
 
-local AzureWindow = UiLib:CreateWindow("Azure Modded | modified by senn", Vector2.new(150, 200), Enum.KeyCode.Insert)
+local AzureWindow = UiLib:CreateWindow("Azure Modded | modified by senn", Vector2.new(550, 350), Enum.KeyCode.Insert)
 
 -- Tabs
 
