@@ -11,7 +11,7 @@ getnamecallmethod = getnamecallmethod
 -- Variables
 local realreverse = 0
 local spamDB = false
-local UiLib = loadstring(game:HttpGet("https://pastebin.com/raw/JFzC7iXS"))()
+local UiLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/theunknownvoid/cattowarey/main/main.lua"))()
 local NotifyLib = loadstring(game:HttpGet("https://pastebin.com/raw/KRep3e1w"))()
 
 local RunService = game:GetService("RunService")
